@@ -1,0 +1,31 @@
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+body{
+background:linear-gradient( to bottom right,rgb(212, 32, 32),rgb(0, 0, 0),rgb(250, 19, 231),rgb(177, 175, 84));
+color:cyan                                                                                                                                                                                                    ;
+}
+
+
+
+
+
+
+#camera,#rezult{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+
+
+
+
+
+
+
+
+.name_of_objects{
+    color:rgb(11, 161, 161);
+}
